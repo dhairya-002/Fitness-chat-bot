@@ -1,6 +1,6 @@
 # 💪 Coach Bro — AI Gym Chatbot
 
-A no-nonsense AI fitness coach that roasts your excuses, writes workout splits, and gives real gym advice. Built with React + Vite, powered by Groq (free AI API).
+A Friendly AI fitness coach that roasts your excuses, writes workout splits, and gives real gym advice. Built with React + Vite, powered by Groq (free AI API).
 
 ---
 
