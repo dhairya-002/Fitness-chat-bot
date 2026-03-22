@@ -47,6 +47,22 @@ fitness-chat-bot/
 
 ---
 
+## 💡 How It Works
+
+1. User types a message or clicks a starter chip
+2. The message is sent to Groq's API along with a custom system prompt that defines Coach Bro's personality
+3. Groq returns a response using the LLaMA 3.3 70B model
+4. The response is displayed in the chat with a typing indicator while loading
+
+---
+
+## 🤖 Customizing the AI Personality
+
+The entire personality of Coach Bro is defined in the `SYSTEM_PROMPT` constant at the top of `src/App.jsx`. Edit it to change how the coach talks, what topics it covers, or to build a completely different chatbot.
+
+---
+
+
 ## ⚙️ Getting Started Locally
 
 ### 1. Clone the repo
@@ -102,17 +118,4 @@ vercel
 
 ---
 
-## 💡 How It Works
 
-1. User types a message or clicks a starter chip
-2. The message is sent to Groq's API along with a custom system prompt that defines Coach Bro's personality
-3. Groq returns a response using the LLaMA 3.3 70B model
-4. The response is displayed in the chat with a typing indicator while loading
-
----
-
-## 🤖 Customizing the AI Personality
-
-The entire personality of Coach Bro is defined in the `SYSTEM_PROMPT` constant at the top of `src/App.jsx`. Edit it to change how the coach talks, what topics it covers, or to build a completely different chatbot.
-
----
