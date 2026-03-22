@@ -4,6 +4,14 @@ A Friendly AI fitness coach that roasts your excuses, writes workout splits, and
 
 ---
 
+## 🧠 Why I Built This
+
+I wanted to build something actually useful — not just a generic chat wrapper. Fitness felt like the right topic because the gap between knowing what to do and actually doing it is huge, and I thought an AI coach with some personality could help close that gap.
+
+I know how hard is it to get back into fitness after a long break is harder than starting fresh. There's a lot of noise online and not much that actually helps you take the first step. Coach Bro is built for exactly that — no fluff, no judgment, just straight answers and a little push.
+
+---
+
 ## 🖥️ Live Demo
 
 > [LIVE](https://fitness-chat-bot.vercel.app/)
