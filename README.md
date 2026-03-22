@@ -6,7 +6,7 @@ A Friendly AI fitness coach that roasts your excuses, writes workout splits, and
 
 ## 🖥️ Live Demo
 
-> Add your Vercel link here after deploying
+> [LIVE](https://fitness-chat-bot.vercel.app/)
 
 ---
 
